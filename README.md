@@ -1,18 +1,46 @@
-# 💫 About Me:
-Building the plane while flying it ✈️<br><br>I'm Samuel, a Cloud Engineer obsessed with reliability.<br><br>While many learn cloud concepts in theory, I am currently applying them in the wild, managing deployments and infrastructure for an emerging startup. I thrive in environments where "uptime" isn't just a metric; it's the business model.<br><br>My Toolbox:<br><br>Certified Expert: AZ-305 (Architect), AZ-400 (DevOps), AZ-104, KCNA.<br><br>Problem Solver: From calculating VLSM subnets to debugging Kubernetes pods.<br><br>Human: Gamer, Home Cook, and Tech Blogger.<br><br>📂 Portfolio: samueladebodun.com
+# Samuel Adebodun
 
+**DevSecOps and Cloud Engineer** · Abuja, Nigeria · working remotely
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-tomolaadebodun) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@_tomola) 
+I build and run the path from commit to production: pipelines with security gates built in, infrastructure as code, and the observability that makes a system debuggable when it breaks. Day to day that is GitHub Actions, Terraform and Kubernetes on Azure and Google Cloud.
 
-# 💻 Tech Stack:
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sagesta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sagesta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagesta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- DevSecOps Engineer at Livwell (remote)
+- Co-founder of EventPlanna, where I own infrastructure, CI/CD and monitoring
+- Finished a Master of Information Technology with distinction. My research project was InfraGuard AI, below
+- Open to remote DevSecOps, Cloud DevOps, Platform and SRE roles
 
----
-[![](https://visitcount.itsvg.in/api?id=sagesta&icon=0&color=0)](https://visitcount.itsvg.in)
+## Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| Project | What it is | Built with |
+|---|---|---|
+| [**InfraGuard AI**](https://github.com/sagesta/infraguad_ai) | Self-hosted observability assistant. Every couple of minutes it collects Loki logs, Prometheus metrics and HTTP probe results, asks an LLM for a structured verdict (severity, root cause, recommended action) and notifies on high and critical. Containment such as a CrowdSec IP ban only happens when an operator approves it. Ships with a frozen benchmark of labelled incident scenarios. | Python, FastAPI, LangChain, ChromaDB, CrowdSec, Terraform, GitHub Actions |
+| [**DevPlanner**](https://github.com/sagesta/devplanner) | A self-hosted planner I run as a real service, with its own metrics, logs and intrusion detection. Observability ports are bound to loopback. | Next.js 14, Hono, Postgres with pgvector, Redis, Prometheus, Loki, Grafana Alloy, CrowdSec |
+| [**Failover with Nginx**](https://github.com/sagesta/Failover_with_nginx) | Blue/green failover with chaos injection, sliding-window error-rate tracking, Slack alerts and an operator runbook. | Nginx, Docker Compose, Python |
+| [**Digital Twin**](https://github.com/sagesta/digital-twin) | Chat app on Azure, provisioned end to end with Terraform: Functions API, Azure OpenAI, deploy through GitHub Actions. | Terraform, Azure Functions, Next.js, FastAPI |
+| [**Flask on Kubernetes**](https://github.com/sagesta/Deploy-Backend-with-Kubernetes) | Clean reference deployment: Flask and Postgres with ConfigMap, Secret, ingress and health probes. | Docker, Kubernetes |
+
+My cloud resume is live at [samueladebodun.com](https://samueladebodun.com), built serverless on Azure.
+
+## What I work with
+
+| Area | Tools |
+|---|---|
+| Cloud | Azure (Entra ID, Sentinel, Functions), Google Cloud (Cloud Run, Cloud SQL, GKE, Compute Engine) |
+| Infrastructure as code and delivery | Terraform, Pulumi, Bicep, ARM templates, GitHub Actions, ArgoCD |
+| Containers | Docker, Kubernetes, Helm |
+| Security | Trivy, Snyk, SonarQube, SBOM generation, CrowdSec, Microsoft Sentinel, Splunk, KQL |
+| Observability | Prometheus, Grafana, Loki, OpenTelemetry |
+| Languages | Python, Bash, PowerShell, TypeScript |
+
+## Certifications
+
+- Microsoft Certified: Cloud and AI Security Engineer Associate
+- Microsoft Certified: DevOps Engineer Expert
+- Microsoft Certified: Azure Solutions Architect Expert
+- Microsoft Certified: Azure Administrator Associate
+- Kubernetes and Cloud Native Associate (KCNA)
+- In progress: Google Cloud Professional Cloud DevOps Engineer
+
+## Get in touch
+
+[Portfolio](https://samueladebodun.com) · [LinkedIn](https://www.linkedin.com/in/samuel-tomolaadebodun) · [Email](mailto:hello@samueladebodun.com) · [X](https://x.com/_tomola)
