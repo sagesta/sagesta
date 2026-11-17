@@ -30,7 +30,7 @@ My cloud resume is live at [samueladebodun.com](https://samueladebodun.com), bui
 | Containers | Docker, Kubernetes, Helm |
 | Security | Trivy, Snyk, SonarQube, SBOM generation, CrowdSec, Microsoft Sentinel, Splunk, KQL |
 | Observability | Prometheus, Grafana, Loki, OpenTelemetry |
-| Languages | Python, Bash, PowerShell, TypeScript |
+| Languages | Python, Go, Bash, PowerShell, TypeScript |
 
 ## Certifications
 
